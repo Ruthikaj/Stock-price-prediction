@@ -1,9 +1,6 @@
-README.md
-markdown
-Copy code
-# 📈 StockViz: Visualize Your Investments
 
-![StockViz Screenshot](link_to_screenshot.png) <!-- Replace with the actual screenshot link -->
+ 📈 StockViz: Visualize Your Investments
+
 
 ## 🌟 Overview
 **StockViz** is an intuitive web application built with **Streamlit** that allows users to visualize and analyze historical stock data effortlessly. By entering a stock ticker symbol, users can access detailed graphs of closing prices and trading volumes.
