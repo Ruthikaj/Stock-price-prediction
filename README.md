@@ -19,7 +19,7 @@
 ### 📥 Installation Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Raghul-M/Stock-price.git
+   git clone https://github.com/Ruthika/Stock-price.git
 Navigate to the project directory:
 
 bash
