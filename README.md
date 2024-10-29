@@ -27,25 +27,25 @@ Copy code
 cd stock-price
 Install the required packages: If a requirements.txt file is provided, run:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 If not, manually install the necessary libraries:
 
-bash
-Copy code
+
 pip install streamlit yfinance
 🏃 Running the Application
 Launch the app with:
 
-bash
-Copy code
+
 streamlit run app.py
 Open your browser and navigate to http://localhost:8501 to view the application.
 
 📊 Usage
 🔍 Input: Enter the stock ticker symbol of your choice.
+
 📈 Visualize: Click "Visualize" to generate graphs displaying historical closing prices and volumes.
+
 📉 Analyze: Review trends to make informed investment decisions.
+
 👩‍💻 Author
 Ruthika - Passionate about data visualization and financial analytics. 🌟
