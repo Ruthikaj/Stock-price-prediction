@@ -20,16 +20,13 @@
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Ruthika/Stock-price.git
-Navigate to the project directory:
 
-bash
-Copy code
 cd stock-price
 Install the required packages: If a requirements.txt file is provided, run:
 
 
 pip install -r requirements.txt
-If not, manually install the necessary libraries:
+
 
 
 pip install streamlit yfinance
